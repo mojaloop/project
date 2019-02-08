@@ -18,6 +18,7 @@ As a <stakeholder> I want to <action> so that <reason>
 - [ ] Unit Tests pass
 - [ ] Integration Tests pass
 - [ ] Code Style & Coverage meets standards
+- [ ] Changes made to config (default.json) are broadcast to team and follow-up tasks added to update helm charts and other deployment config.
 - [ ] TBD
 
 ## **Pull Requests**:
