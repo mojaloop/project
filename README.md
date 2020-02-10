@@ -14,4 +14,4 @@ You should be able to see the _"ZenHub"_ tab in the top bar. If not, go through 
 2. Connect your new Zenhub account with the Mojaloop Organisation, Search for the _'project'_ workspace
 3. Install the [Zenhub Browser extension](https://www.zenhub.com/extension) for Chrome or Firefox, and reload this page. You should now see the following: 
 
-<img src="./assets/zenhub_tabs.png" height="100">
+<img src="./assets/zenhub_tabs.png" height="50">
