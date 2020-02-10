@@ -2,7 +2,7 @@
 
 A unified [kanban board](https://github.com/mojaloop/project#zenhub) for tracking issues across all Mojaloop Projects.
 
-## Can't see the Scum Board?
+## Can't see the Scrum Board?
 
 This repo relies on the [Zenhub Browser Extension](https://www.zenhub.com/extension) in order to see Github issues in a scrum board.
 
