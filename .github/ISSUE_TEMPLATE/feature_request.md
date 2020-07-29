@@ -2,13 +2,16 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: Story
+labels: Story 
 assignees: ''
 
 ---
+(Alternative Labels: Technical Story, Spike, Debt, QA Story )
 
 ## **Goal**:
-As a <stakeholder> I want to <action> so that <reason>
+As a <stakeholder> 
+I want to <action> 
+so that <reason>
 
 **Tasks**:
 - [ ] TBD [ @? ]
