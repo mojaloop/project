@@ -6,17 +6,28 @@ labels: Story
 assignees: ''
 
 ---
-(Alternative Labels: Technical Story, Spike, Debt, QA Story )
 
 ## **Goal**:
-As a <stakeholder> 
-I want to <action> 
-so that <reason>
+`As a` <stakeholder|persona>
+
+`I want to` <action>
+  
+`so that` <reason> 
+
+**Acceptance Criteria**:
+- [ ] TBD
+
+**Complexity**: <High|Medium|Low> > A short comment to remind the reason for the rating
+
+**Uncertainity**: <High|Medium|Low> > A short comment to remind the reason for the rating>
+
+---
 
 **Tasks**:
 - [ ] TBD [ @? ]
 
-**Acceptance Criteria**:
+**Done**
+- [ ] Acceptance Criteria pass
 - [ ] Designs are up-to date
 - [ ] Unit Tests pass
 - [ ] Integration Tests pass
