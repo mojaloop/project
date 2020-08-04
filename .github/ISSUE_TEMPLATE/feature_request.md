@@ -19,7 +19,7 @@ assignees: ''
 
 **Complexity**: <High|Medium|Low> > A short comment to remind the reason for the rating
 
-**Uncertainity**: <High|Medium|Low> > A short comment to remind the reason for the rating>
+**Uncertainty**: <High|Medium|Low> > A short comment to remind the reason for the rating>
 
 ---
 
