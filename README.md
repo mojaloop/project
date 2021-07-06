@@ -36,7 +36,7 @@ You may also want to read:
   > _note: You must install the [ZenHub extension](https://www.zenhub.com/extension) in order to see the Project Kanban Board_
 - [Developer Onboarding Guide](./onboarding.md)
 
-If you have any trouble getting started, or want to know where to start, reach out to us on the `#general` channel in [Slack](https://mojaloop-slack.herokuapp.com/)!
+If you have any trouble getting started, or want to know where to start, reach out to us on the `#help-mojaloop` channel in [Slack](https://mojaloop-slack.herokuapp.com/)!
 
 ### Mojaloop Repositories
 
@@ -48,8 +48,8 @@ As a quick reference, some of the most important repositories for contributors a
 - [ml-api-adapter](https://github.com/mojaloop/ml-api-adapter) - Translation layer to convert to/from Mojaloop API to an internal format that is used in Central Services Stack.
 - [account-lookup-service](https://github.com/mojaloop/account-lookup-service) - A service for managing party accounts across a Mojaloop environment
 - [helm](https://github.com/mojaloop/helm) - The Helm chart development for deploying Mojaloop on Kubernetes
-- [postman](https://github.com/mojaloop/postman) - A set of Postman scripts for testing and managing a Mojaloop environment
-- [documentation](https://github.com/mojaloop/documentation) - The mojaloop documentation, published [here](https://docs.mojaloop.io/documentation)
+- [Testing Toolkit](https://github.com/mojaloop/ml-testing-toolkit) - The swiss army knife of testing Mojaloop and DFSP APIs
+- [project](https://github.com/mojaloop/project) - The Mojaloop Project issue tracker and Kanban board
 
 ### Creating New Issues
 
