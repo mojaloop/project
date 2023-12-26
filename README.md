@@ -18,7 +18,7 @@ Mojaloop aims at creating payment platforms that are interoperable, connecting d
 
 ## Contact
 
-[Slack](https://mojaloop-slack.herokuapp.com/) is the best way to keep in touch with the Mojaloop Community. Sign up for your Mojaloop Slack account [here](https://mojaloop-slack.herokuapp.com/).
+[Slack](https://slack.com) is the best way to keep in touch with the Mojaloop Community. Sign up for your Mojaloop Slack account [here](https://mojaloop.slack.com).
 
 __Channels:__
 - `#announcements` - Announcements for new Releases and QA Status
@@ -36,7 +36,7 @@ You may also want to read:
   > _note: You must install the [ZenHub extension](https://www.zenhub.com/extension) in order to see the Project Kanban Board_
 - [Developer Onboarding Guide](./onboarding.md)
 
-If you have any trouble getting started, or want to know where to start, reach out to us on the `#help-mojaloop` channel in [Slack](https://mojaloop-slack.herokuapp.com/)!
+If you have any trouble getting started, or want to know where to start, reach out to us on the `#help-mojaloop` channel in [Slack](https://mojaloop.slack.com)!
 
 ### Mojaloop Repositories
 
@@ -83,7 +83,7 @@ This repo relies on the [Zenhub Browser Extension](https://www.zenhub.com/extens
 
 You should be able to see the _"ZenHub"_ tab in the top bar. If not, go through the following steps to see the kanban board:
 
-> _Note:_ In order to add __mojaloop__ to your Zenhub workspaces, you need your Github account be added to the Mojaloop project. If you believe you should be added, contact us on the [Mojaloop Slack](mojaloop.slack.com).
+> _Note:_ In order to add __mojaloop__ to your Zenhub workspaces, you need your Github account be added to the Mojaloop project. If you believe you should be added, contact us on the [Mojaloop Slack](https://mojaloop.slack.com).
 
 1. Go to the [Zenhub Login Page](https://app.zenhub.com/login) and log in to Zenhub with your Github account
 2. Connect your new Zenhub account with the Mojaloop Organisation, Search for the _'project'_ workspace
