@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hub Operator - Role Permissions</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <div class="logo-icon"></div>
+                <h2>Hub Operator</h2>
+            </div>
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active">Role Permissions</a>
+                <a href="#" class="nav-item">Users</a>
+                <a href="#" class="nav-item">Settings</a>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div class="header-content">
+                    <h1>Role & Permission Management</h1>
+                    <p>Assign permissions to roles using the Keto tuple structure.</p>
+                </div>
+            </header>
+
+            <div class="dashboard-grid">
+                
+                <!-- Matrix View Section -->
+                <section class="card matrix-section">
+                    <div class="card-header">
+                        <h2>Permission Matrix</h2>
+                        <p>Toggle permissions for each role. Changes are saved automatically as Keto tuples.</p>
+                    </div>
+                    <div class="matrix-container">
+                        <table id="permission-matrix">
+                            <thead>
+                                <tr id="matrix-header">
+                                    <!-- Dynamic Headers -->
+                                </tr>
+                            </thead>
+                            <tbody id="matrix-body">
+                                <!-- Dynamic Rows -->
+                            </tbody>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Permission Detail Panel (Real-time Validation) -->
+                <section class="card detail-section">
+                    <div class="card-header">
+                        <h2>Permission Details</h2>
+                        <p>Select or hover over a permission to view granted access.</p>
+                    </div>
+                    <div id="permission-detail" class="detail-content empty-state">
+                        <div class="empty-icon">i</div>
+                        <p>Hover over a permission in the matrix to see the API endpoints it grants access to.</p>
+                    </div>
+                </section>
+                
+            </div>
+        </main>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
