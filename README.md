@@ -104,3 +104,6 @@ You should be able to see the _"ZenHub"_ tab in the top bar. If not, go through 
 3.7. **In Progress** - All issues that are currently being worked on are present in this pipeline. Ideally by now all stories, bugs should have an assigned milestone, an estimate, an Epic, proper labeling and acceptance criteria.<br>
 3.8. **Review** - Stories, bugs once completed and ready for review are moved to this pipleline to be reviewed by Product Owner, etc. before moving to the closed pipleine.<br>
 3.9. **Closed** - All Epics, Stories, bugs once completed are moved to the Closed pipeline (issues closed by default are also moved to this).<br>
+
+
+
